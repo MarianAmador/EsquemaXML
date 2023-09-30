@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Canciones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Canciones.xsd">
+    <Canción duracion="4:42" año="2022">
+        <Titulo>Change</Titulo>
+
+        <Compositores>
+            <Compositor>
+                <Nombres>Louis</Nombres>
+                <Apellidos>Tomlinson</Apellidos>
+            </Compositor>
+
+            <Compositor>
+                <Nombres>George</Nombres>
+                <Apellidos>Tizzard</Apellidos>
+            </Compositor>
+
+            <Compositor>
+                <Nombres>Rick</Nombres>
+                <Apellidos>Parkhouse</Apellidos>
+            </Compositor>
+
+            <Compositor>
+                <Nombres>Robert</Nombres>
+                <Apellidos>Harvey</Apellidos>
+            </Compositor>
+        </Compositores>
+
+        <Productores>
+            <Productor>
+                <Nombre>Red Triangle</Nombre>
+            </Productor>
+        </Productores>
+
+        <Sello>BMG Publishing</Sello>
+        <Artista>Louis Tomlinson</Artista>
+    </Canción>
+
+    <Canción duracion="2:48" año="2022">
+        <Titulo>Valentine</Titulo>
+
+        <Compositores>
+            <Compositor>
+                <Nombres>Laufey</Nombres>
+            </Compositor>
+
+            <Compositor>
+                <Nombres>Spencer</Nombres>
+                <Apellidos>Stewart</Apellidos>
+            </Compositor>
+        </Compositores>
+
+        <Productores>
+            <Productor>
+                <Nombre>Spencer Stewart</Nombre>
+            </Productor>
+        </Productores>
+
+        <Sello>Songtrust</Sello>
+        <Artista>Laufey</Artista>
+    </Canción>
+
+    <Canción duracion="4:08" año="2014">
+        <Titulo>18</Titulo>
+
+        <Compositores>
+            <Compositor>
+                <Nombres></Nombres>
+            </Compositor>
+
+            <Compositor>
+                <Nombres>Ed</Nombres>
+                <Apellidos>Sheeran</Apellidos>
+            </Compositor>
+
+            <Compositor>
+                <Nombres>Oliver</Nombres>
+                <Apellidos>Frank</Apellidos>
+            </Compositor>
+        </Compositores>
+
+        <Productores>
+            <Productor>
+                <Nombre>Steve Robson</Nombre>
+            </Productor>
+        </Productores>
+
+        <Sello>Syco Music</Sello>
+        <Artista>One Direction</Artista>
+    </Canción>
+
+    <Canción duracion="2:48" año="2022">
+        <Titulo>Valentine</Titulo>
+        <Compositores>
+            <Compositor>
+                <Nombres>Laufey</Nombres>
+            </Compositor>
+
+            <Compositor>
+                <Nombres>Spencer</Nombres>
+                <Apellidos>Stewart</Apellidos>
+            </Compositor>
+        </Compositores>
+
+        <Productores>
+            <Productor>
+                <Nombre>Spencer Stewart</Nombre>
+            </Productor>
+        </Productores>
+
+        <Sello>Songtrust</Sello>
+        <Artista>Laufey</Artista>
+    </Canción>
+</Canciones>
